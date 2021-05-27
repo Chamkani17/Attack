@@ -10,7 +10,7 @@ ku='\033[33;1m' #kuning
 # Jangan Recode Ya gayn
 echo
 echo
-echo
+"""
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo $i" |"$cy"     KURRAM DARK TERMUX ASSOCIATE"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
